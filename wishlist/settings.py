@@ -83,6 +83,7 @@ DATABASES = {
         'PASSWORD': 'YCapstone!',
         'HOST': '/cloudsql/wishlist-django-297122:us-central1:wishlist-db',
         'PORT': '5432',
+    }
 }
 
 
